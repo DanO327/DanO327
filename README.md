@@ -28,6 +28,7 @@ Utilicé tecnologías como JavaScript,Java, HTML, CSS, PHP, SQL, Git, GitHub, Su
 Portfolio
 
 Web personal donde iré publicando mis proyectos y experiencia.
+https://dano327.github.io/
 
 
 Actualmente
@@ -37,5 +38,5 @@ Buscando mi primera oportunidad como desarrollador web.
 
 Contacto
 LinkedIn: https://www.linkedin.com/in/dan-ortega-pascual-6a3a1a392/
-Portfolio: 
+Portfolio: https://dano327.github.io/
 Email: dan_16n@hotmail.es
