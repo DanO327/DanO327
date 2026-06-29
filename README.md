@@ -1,16 +1,41 @@
-## Hi there 👋
+Hola, soy Dan 👋
 
-<!--
-**DanO327/DanO327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y actualmente busco mi primera oportunidad como desarrollador web.
 
-Here are some ideas to get you started:
+Me interesa especialmente el desarrollo frontend, aunque también disfruto trabajando en proyectos full stack. Durante mi formación y mis prácticas he desarrollado aplicaciones web utilizando JavaScript, HTML, CSS, PHP, SQL, React y Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías
+JavaScript
+HTML
+CSS
+PHP
+React
+SQL (Oracle)
+Supabase
+Git & GitHub
+Proyectos
+ERP para PYMES
+
+Proyecto Final de DAW desarrollado con React y JavaScript. Aplicación web ERP orientada a la gestión de pequeñas y medianas empresas.
+
+Novayira OU
+
+Participé en el desarrollo de un portal de afiliados desde cero junto al equipo de desarrollo.
+Colaboré en el desarrollo de herramientas para procesos de lead generation, automatizando la recopilación y el tratamiento de datos de empresas.
+Implementé nuevas funcionalidades y colaboré en la mejora de aplicaciones web.
+Utilicé tecnologías como JavaScript,Java, HTML, CSS, PHP, SQL, Git, GitHub, Supabase dentro de un entorno de desarrollo colaborativo.
+
+Portfolio
+
+Web personal donde iré publicando mis proyectos y experiencia.
+
+
+Actualmente
+Mejorando mis conocimientos de React, Java y SQL.
+Desarrollando nuevos proyectos.
+Buscando mi primera oportunidad como desarrollador web.
+
+Contacto
+LinkedIn: https://www.linkedin.com/in/dan-ortega-pascual-6a3a1a392/
+Portfolio: 
+Email: dan_16n@hotmail.es
